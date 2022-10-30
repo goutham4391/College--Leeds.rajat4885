@@ -1,0 +1,52 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * freight-sans-pro:
+ *   - http://typekit.com/eulas/000000000000000000010b5a
+ *   - http://typekit.com/eulas/000000000000000000010b5c
+ *   - http://typekit.com/eulas/000000000000000000010b5e
+ * freight-text-pro:
+ *   - http://typekit.com/eulas/000000000000000077359fbd
+ *   - http://typekit.com/eulas/000000000000000077359fce
+ *
+ * © 2009-2022 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2021-04-08 10:19:56 UTC"}*/
+
+@import url("../p.typekit.net/pd593.css?s=1&amp;k=xpd0xwa&amp;ht=tk&amp;f=10954.13458.13460.13470.13474&amp;a=2901748&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"freight-sans-pro";
+src:url("af/442215/000000000000000000010b5a/27/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/442215/000000000000000000010b5a/27/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/442215/000000000000000000010b5a/27/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-sans-pro";
+src:url("af/8dd886/000000000000000000010b5c/27/le003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("woff2"),url("af/8dd886/000000000000000000010b5c/27/de003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("woff"),url("af/8dd886/000000000000000000010b5c/27/ae003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-sans-pro";
+src:url("af/cef9f3/000000000000000000010b5e/27/l5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("woff2"),url("af/cef9f3/000000000000000000010b5e/27/d5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("woff"),url("af/cef9f3/000000000000000000010b5e/27/a5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-text-pro";
+src:url("af/4b422b/000000000000000077359fbd/30/le003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("woff2"),url("af/4b422b/000000000000000077359fbd/30/de003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("woff"),url("af/4b422b/000000000000000077359fbd/30/ae003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-text-pro";
+src:url("af/80e9a7/000000000000000077359fce/30/lc150?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n9&amp;v=3") format("woff2"),url("af/80e9a7/000000000000000077359fce/30/dc150?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n9&amp;v=3") format("woff"),url("af/80e9a7/000000000000000077359fce/30/ac150?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n9&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+.tk-freight-sans-pro { font-family: "freight-sans-pro",sans-serif; }
+.tk-freight-text-pro { font-family: "freight-text-pro",serif; }

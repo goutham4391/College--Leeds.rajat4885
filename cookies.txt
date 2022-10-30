@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.leeds.ac.uk	TRUE	/	FALSE	1999999999	PHPSESSID	97a0o5m1nfl1nmd5f59l27u1g8tsjruu
+leeds.ac.uk	TRUE	/	FALSE	1999999999	NSC_QTUHSQ_XFC_QSPEVDUJPO2	ffffffff8203a06945525d5f4f58455e445a4a42378b
+www.leeds.ac.uk	TRUE	/	FALSE	1999999999	testwww.leeds.ac.uk	test
+www.leeds.ac.uk	TRUE	/	FALSE	1999999999	NSC_JOg3thlwc5jjpt4c5pwenwbppdjzdb6	00000000330e1f310ad16c11f5c013139d17a9ef378b
+
